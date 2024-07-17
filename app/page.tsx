@@ -1,5 +1,5 @@
-import SearchInput from "@/components/ui/icons/SearchInput";
 import LandingImage from "./_components/landing-image";
+import SearchInput from "./_components/search-input";
 
 export default function Home() {
 	return (
